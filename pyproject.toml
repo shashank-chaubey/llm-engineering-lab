@@ -1,7 +1,7 @@
 [project]
-name = "llm-website-summarizer"
+name = "llm-learning-lab"
 version = "0.1.0"
-description = "Notebook experiments for summarizing website content with Gemini and local Ollama models."
+description = "A collection of hands-on LLM projects and notebook experiments."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

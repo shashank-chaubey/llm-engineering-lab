@@ -1084,7 +1084,7 @@ wheels = [
 ]
 
 [[package]]
-name = "llm-website-summarizer"
+name = "llm-learning-lab"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

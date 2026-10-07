@@ -1,5 +1,5 @@
-mkdir llm-website-summarizer
-cd llm-website-summarizer
+mkdir llm-learning-lab
+cd llm-learning-lab
 uv init
 uv venv
 uv add google-genai python-dotenv requests beautifulsoup4 jupyter ipykernel
