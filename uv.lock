@@ -1084,7 +1084,7 @@ wheels = [
 ]
 
 [[package]]
-name = "llm-learning-lab"
+name = "llm-engineering-lab"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

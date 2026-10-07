@@ -1,5 +1,5 @@
-mkdir llm-learning-lab
-cd llm-learning-lab
+mkdir llm-engineering-lab
+cd llm-engineering-lab
 uv init
 uv venv
 uv add google-genai python-dotenv requests beautifulsoup4 jupyter ipykernel

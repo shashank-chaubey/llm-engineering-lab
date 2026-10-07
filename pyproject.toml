@@ -1,7 +1,7 @@
 [project]
-name = "llm-learning-lab"
+name = "llm-engineering-lab"
 version = "0.1.0"
-description = "A collection of hands-on LLM projects and notebook experiments."
+description = "A collection of hands-on LLM engineering projects and notebook experiments."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
