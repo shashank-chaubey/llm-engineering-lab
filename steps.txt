@@ -1,5 +1,0 @@
-mkdir my-llm-project
-cd my-llm-project
-uv init
-uv venv
-uv add google-genai python-dotenv requests beautifulsoup4 jupyter ipykernel
