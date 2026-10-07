@@ -1,6 +1,6 @@
 # LLM Learning Lab
 
-A collection of hands-on LLM projects and notebook experiments. Each numbered folder contains one focused project, so more LLM experiments can be added cleanly over time.
+A collection of LLM projects and notebook experiments. Each numbered folder contains one focused project, so more LLM experiments can be added cleanly over time.
 
 ## Project Structure
 
