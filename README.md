@@ -5,7 +5,6 @@ A collection of hands-on LLM projects and notebook experiments. Each numbered fo
 ## Project Structure
 
 - `01-llm-website-summarization/` - website summarization experiments with hosted Gemini models and local Ollama models.
-- `01-llm-website-summarization/gemini_api_quickstart.ipynb` - first Gemini API request using the OpenAI-compatible endpoint.
 - `01-llm-website-summarization/gemini_website_summarizer.ipynb` - website summarization with Gemini.
 - `01-llm-website-summarization/ollama_website_summarizer.ipynb` - website summarization with a local Ollama model.
 - `01-llm-website-summarization/website_scraper.py` - helper functions for fetching website text and links.
